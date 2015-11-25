@@ -1,1 +1,2 @@
 test --no-ff
+OK done
